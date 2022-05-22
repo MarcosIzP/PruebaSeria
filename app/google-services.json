@@ -1,0 +1,164 @@
+{
+  "project_info": {
+    "project_number": "36828474316",
+    "firebase_url": "https://nowcastmizadu-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "nowcastmizadu",
+    "storage_bucket": "nowcastmizadu.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:36828474316:android:37908df461e100afc54b69",
+        "android_client_info": {
+          "package_name": "com.plcoding.spotifycloneyt"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "36828474316-2tcie8802hdja88fnq2v418roh4gku51.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBFMlMZwGuy0AlgAQ9armXfZZKTmL-ASEw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "36828474316-2tcie8802hdja88fnq2v418roh4gku51.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:36828474316:android:1603badf005ed84bc54b69",
+        "android_client_info": {
+          "package_name": "com.tfg.aplicacio"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "36828474316-cvtmq0j668vcjsjockmlktv02i3gpkrb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.tfg.aplicacio",
+            "certificate_hash": "621081cc49fba99277d396eed64f27d49eae6e37"
+          }
+        },
+        {
+          "client_id": "36828474316-2tcie8802hdja88fnq2v418roh4gku51.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBFMlMZwGuy0AlgAQ9armXfZZKTmL-ASEw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "36828474316-2tcie8802hdja88fnq2v418roh4gku51.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:36828474316:android:7d08da5deb4e3ba5c54b69",
+        "android_client_info": {
+          "package_name": "com.tfg.nowcast"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "36828474316-2tcie8802hdja88fnq2v418roh4gku51.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBFMlMZwGuy0AlgAQ9armXfZZKTmL-ASEw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "36828474316-2tcie8802hdja88fnq2v418roh4gku51.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:36828474316:android:83ad0eafe0fe8b0ac54b69",
+        "android_client_info": {
+          "package_name": "com.tfg.pruebaseria"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "36828474316-2tcie8802hdja88fnq2v418roh4gku51.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBFMlMZwGuy0AlgAQ9armXfZZKTmL-ASEw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "36828474316-2tcie8802hdja88fnq2v418roh4gku51.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:36828474316:android:d80210d058051481c54b69",
+        "android_client_info": {
+          "package_name": "com.tfg.reproductordeaudio"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "36828474316-2tcie8802hdja88fnq2v418roh4gku51.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBFMlMZwGuy0AlgAQ9armXfZZKTmL-ASEw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "36828474316-2tcie8802hdja88fnq2v418roh4gku51.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
