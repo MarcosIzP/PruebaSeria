@@ -3,7 +3,9 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/PFG/ProyectosDePrueba/PruebaSeria/app/src/main/res/drawable-v24/ic_pause.xml" value="0.3828125" />
         <entry key="..\:/PFG/ProyectosDePrueba/PruebaSeria/app/src/main/res/drawable/ic_music.xml" value="0.3828125" />
+        <entry key="..\:/PFG/ProyectosDePrueba/PruebaSeria/app/src/main/res/layout-land/fragment_song.xml" value="0.31040564373897706" />
         <entry key="..\:/PFG/ProyectosDePrueba/PruebaSeria/app/src/main/res/layout/activity_main.xml" value="0.36666666666666664" />
       </map>
     </option>
